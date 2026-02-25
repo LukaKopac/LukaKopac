@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Luka Kopač, a PhD student at University of Ljubljana, Biotechnical faculty, Department of wood science and technology (Slovenia).
+I'm a PhD student at University of Ljubljana, Biotechnical faculty, Department of wood science and technology (Slovenia).
 
 - 🔭 The main topic of my PhD is **hyperspectral imaging of wood**, which enables the exploration and research of a wide range of material properties.
 - 🌱 Besides research and study I’m currently working on creating a Python package that would simplify the HSI data handling.
